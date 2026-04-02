@@ -29,7 +29,7 @@
   "memtest86": {"id":"memtest86","url":"https://www.memtest86.com/download.htm","type":"url-page","linkContains":"memtest86-usb","extractPath":"%USERPROFILE%\\Downloads\\MemTest86"},
   "furmark": {"id":"furmark","url":"https://geeks3d.com/furmark/downloads/","type":"url-page","linkContains":"geeks3d.com/dl","extractPath":"%USERPROFILE%\\Downloads\\FurMark"},
   "unigine": {"id":"unigine","url":"https://assets.unigine.com/d/Unigine_Superposition-1.1.exe","type":"setup","installArgs":"/S"},
-  "msiafterburner": {"id":"msiafterburner","url":"https://www.msi.com/Landing/afterburner/graphics-cards","type":"url-page","linkContains":"Afterburner"},
+  "msiafterburner": {"id":"msiafterburner","url":"https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/MSIAfterburnerInstaller466.exe","type":"setup"},
   "fancontrol": {"id":"fancontrol","url":"Rem0o/FanControl.Releases","type":"github"},
   "msiutilityv3": {"id":"msiutilityv3","url":"https://github.com/Sathango/Msi-Utility-v3/archive/refs/heads/main.zip","type":"zip","extractPath":"%USERPROFILE%\\Downloads\\MSI-Utility-v3"},
   "latencymon": {"id":"latencymon","url":"https://www.resplendence.com/downloads","type":"url-page","linkContains":"LatencyMon","extractPath":"%USERPROFILE%\\Downloads\\LatencyMon"},
