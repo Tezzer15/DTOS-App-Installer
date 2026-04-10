@@ -10,7 +10,7 @@
   "scewin": {"id":"scewin","url":"ab3lkaizen/SCEHUB","type":"github"},
   "autoruns": {"id":"autoruns","url":"https://download.sysinternals.com/files/Autoruns.zip","type":"zip","extractPath":"%USERPROFILE%\\Downloads\\Autoruns"},
   "cru": {"id":"cru","url":"https://customresolutionutility.net/","type":"url-page","linkContains":"cru-","extractPath":"%USERPROFILE%\\Downloads\\CRU"},
-  "rustdesk": {"id":"rustdesk","url":"rustdesk/rustdesk","type":"github"},
+  "rustdesk": {"id":"rustdesk","url":"https://github.com/rustdesk/rustdesk/releases/download/1.4.6/rustdesk-1.4.6-x86_64.exe","type":"setup"},
   "hwinfo": {"id":"hwinfo","url":"https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/HWiNFO64.exe","type":"setup"},
   "zentimings": {"id":"zentimings","url":"irusanov/ZenTimings","type":"github","extractPath":"%USERPROFILE%\\Downloads\\Zentimings"},
   "asrock306": {"id":"asrock306","url":"https://download.asrock.com/Utility/Formula/TimingConfigurator(v3.0.6).zip","type":"zip","extractPath":"%USERPROFILE%\\Downloads\\ASRock TC v3.0.6"},
