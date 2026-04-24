@@ -31,7 +31,7 @@
   "msiafterburner": {"id":"msiafterburner","url":"https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/MSIAfterburnerInstaller466.exe","type":"setup"},
   "fancontrol": {"id":"fancontrol","url":"Rem0o/FanControl.Releases","type":"github"},
   "msiutilityv3": {"id":"msiutilityv3","url":"https://github.com/Sathango/Msi-Utility-v3/archive/refs/heads/main.zip","type":"zip","extractPath":"%USERPROFILE%\\Downloads\\MSI-Utility-v3"},
-  "latencymon": {"id":"latencymon","url":"https://www.resplendence.com/downloads","type":"url-page","linkContains":"LatencyMon","extractPath":"%USERPROFILE%\\Downloads\\LatencyMon"},
+  "xperf": {"id":"xperf","url":"https://www.dropbox.com/scl/fi/wfwxgnrl0kfsxmuydh0qt/Xperf.zip?rlkey=zupnr3en90we9lb9tlk9g0ij7&st=56gz33za&dl=1","type":"zip","extractPath":"%USERPROFILE%\\Downloads\\XPerf"},
   "interruptaffinity": {"id":"interruptaffinity","url":"https://raw.githubusercontent.com/Tezzer15/DTOS-App-Installer/main/intPolicy_x64.exe","type":"setup"},
   "nvidacontrolpanel": {"id":"nvidacontrolpanel","url":"https://raw.githubusercontent.com/Tezzer15/DTOS-App-Installer/main/NVIDIA_Control_Panel.exe","type":"setup"},
   "nvidiaprofileinspector": {"id":"nvidiaprofileinspector","url":"https://raw.githubusercontent.com/Tezzer15/DTOS-App-Installer/main/nv.exe","type":"setup"}
