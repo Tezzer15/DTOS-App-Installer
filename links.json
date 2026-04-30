@@ -1,6 +1,7 @@
 {
   "brave": {"id":"brave","type":"brave-latest","installArgs":"/silent /install"},
   "firefox": {"id":"firefox","type":"firefox-latest","installArgs":"/S"},
+  "firefox-dev": {"id":"firefoxdev","url":"https://download.mozilla.org/?product=firefox-devedition-stub&os=win&lang=en-US","type":"setup","installArgs":"/S"},
   "thorium": {"id":"thorium","url":"Alex313031/Thorium-Win","type":"github"},
   "epic": {"id":"epic","url":"https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi","type":"msi"},
   "steam": {"id":"steam","url":"https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe","type":"setup","installArgs":"/S"},
