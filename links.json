@@ -25,7 +25,7 @@
   "asrock4014": {"id":"asrock4014","url":"https://picx.xfastest.com/nickshih/asrock/AsrTCSetup(v4.0.14).rar","type":"rar","extractPath":"%USERPROFILE%\\Downloads\\ASRock TC v4.0.14"},
   "cpuz": {"id":"cpuz","url":"https://www.cpuid.com/softwares/cpu-z.html","type":"url-page","linkContains":"en.zip","extractPath":"%USERPROFILE%\\Downloads\\CPU-Z"},
   "gpuz": {"id":"gpuz","url":"https://www.techpowerup.com/download/techpowerup-gpu-z/","type":"url-page","linkContains":"GPU-Z."},
-  "ramtestpro": {"id":"ramtestpro","url":"https://www.karhusoftware.com/","type":"url"},
+  "ramtestpro": {"id":"ramtestpro","url":"https://pcstonks.com/s/C7iQng","type":"zip","extractPath":"%USERPROFILE%\\Downloads\\RTP"},
   "occt": {"id":"occt","url":"https://www.ocbase.com/download/edition:Personal/os:Windows","type":"url"},
   "prime95": {"id":"prime95","url":"https://www.mersenne.org/download/","type":"url-page","linkContains":"win64.zip","extractPath":"%USERPROFILE%\\Downloads\\Prime95"},
   "capframex": {"id":"capframex","url":"CXWorld/CapFrameX","type":"github"},
