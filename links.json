@@ -39,4 +39,7 @@
   "nvidiacontrolpanel": {"id":"nvidiacontrolpanel","url":"https://raw.githubusercontent.com/Tezzer15/DTOS-App-Installer/main/NVIDIA_Control_Panel.exe","type":"setup"},
   "nvidiaprofileinspector": {"id":"nvidiaprofileinspector","url":"Orbmu2k/nvidiaProfileInspector","type":"github"},
   "nvcleanstall": {"id":"nvcleanstall","url":"https://www.techpowerup.com/download/techpowerup-nvcleanstall/","type":"url-page","linkContains":"NVCleanstall"}
+  "vscode": {"id":"vscode","url":"https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user","type":"setup","installArgs":"/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /MERGETASKS=!runcode"},
+  "visualstudio": {"id":"visualstudio","url":"https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&source=VSLandingPage","type":"setup"},
+  "cursor": {"id":"cursor","url":"https://cursor.com/api/download?platform=win32-x64&releaseTrack=stable","type":"cursor-api","installArgs":"/S"}
 }
