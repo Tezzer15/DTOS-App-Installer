@@ -218,7 +218,7 @@
   },
   "nvidiaprofileinspector": {
     "id": "nvidiaprofileinspector",
-    "url": "https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/v3.0.1.13/nvidiaProfileInspector.zip",
+    "url": "https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/LLG-MODDED.NVIDIA.INSPECTOR.zip",
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\nvidiaProfileInspector"
   },
