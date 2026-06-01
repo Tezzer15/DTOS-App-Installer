@@ -60,9 +60,8 @@
   },
   "discord": {
     "id": "discord",
-    "url": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
+    "url": "https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/DiscordSetup.exe",
     "type": "setup",
-    "installArgs": "-s"
   },
   "vesktop": {
     "id": "vesktop",
