@@ -60,8 +60,9 @@
   },
   "discord": {
     "id": "discord",
-    "url": "https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/DiscordSetup.exe",
+    "url": "https://discord.com/api/download?platform=win",
     "type": "setup",
+    "installArgs": "-s"
   },
   "vesktop": {
     "id": "vesktop",
@@ -184,7 +185,7 @@
   },
   "xperf": {
     "id": "xperf",
-    "url": "https://dl.dropboxusercontent.com/scl/fi/wfwxgnrl0kfsxmuydh0qt/Xperf.zip?rlkey=zupnr3en90we9lb9tlk9g0ij7&st=56gz33za&dl=1",
+    "url": "https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/Xperf.zip",
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\xperf"
   },
@@ -217,7 +218,7 @@
   },
   "nvidiaprofileinspector": {
     "id": "nvidiaprofileinspector",
-    "url": "https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/LLG-MODDED.NVIDIA.INSPECTOR.zip",
+    "url": "https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/v3.0.1.13/nvidiaProfileInspector.zip",
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\nvidiaProfileInspector"
   },
@@ -265,5 +266,33 @@
     "id": "gointerruptpolicy",
     "url": "https://github.com/spddl/GoInterruptPolicy/releases/download/v1.9.0/GoInterruptPolicy.exe",
     "type": "exe"
+  },
+  "spotify": {
+    "id": "spotify",
+    "url": "https://download.scdn.co/SpotifySetup.exe",
+    "type": "setup"
+  },
+  "applemusic": {
+    "id": "applemusic",
+    "url": "ms-windows-store://pdp/?productid=9PFHDD62MXS1",
+    "type": "store"
+  },
+  "mpv": {
+    "id": "mpv",
+    "url": "https://github.com/zhongfly/mpv-winbuild/releases/download/2026-06-03-bdbeecbc11/mpv-x86_64-20260603-git-bdbeecbc11.7z",
+    "type": "7z",
+    "extractPath": "%USERPROFILE%\\Downloads\\mpv"
+  },
+  "heaven": {
+    "id": "heaven",
+    "url": "https://assets.unigine.com/d/Unigine_Heaven-4.0.exe",
+    "type": "setup",
+    "installArgs": "/S"
+  },
+  "librewolf": {
+    "id": "librewolf",
+    "url": "https://dl.librewolf.net/librewolf/151.0.3-1/librewolf-151.0.3-1-windows-x86_64-setup.exe",
+    "type": "setup",
+    "installArgs": "/S"
   }
 }
