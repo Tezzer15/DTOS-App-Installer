@@ -279,8 +279,8 @@
   },
   "mpv": {
     "id": "mpv",
-    "url": "https://github.com/zhongfly/mpv-winbuild/releases/download/2026-06-03-bdbeecbc11/mpv-x86_64-20260603-git-bdbeecbc11.7z",
-    "type": "7z",
+    "url": "https://gitgud.io/api/v4/projects/45219/packages/generic/mpv-manager/v1.2.0/mpv-manager-v1.2.0-win-x86_64.zip",
+    "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\mpv"
   },
   "heaven": {
