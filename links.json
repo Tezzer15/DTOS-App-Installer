@@ -85,7 +85,7 @@
   "rustdesk": {
     "id": "rustdesk",
     "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.6/rustdesk-1.4.6-x86_64.exe",
-    "type": "setup"
+    "type": "exe"
   },
   "anydesk": {
     "id": "anydesk",
