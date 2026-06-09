@@ -294,5 +294,11 @@
     "url": "https://dl.librewolf.net/librewolf/151.0.3-1/librewolf-151.0.3-1-windows-x86_64-setup.exe",
     "type": "setup",
     "installArgs": "/S"
+  },
+    "throttlestop": {
+    "id": "throttlestop",
+    "url": "https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/ThrottleStop_9.7.zip",
+    "type": "zip",
+    "extractPath": "%USERPROFILE%\\Downloads\\throttlestop"
   }
 }
