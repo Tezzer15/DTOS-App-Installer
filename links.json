@@ -75,6 +75,11 @@
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\Autoruns"
   },
+    "spotx": {
+    "id": "spotx",
+    "url": "https://github.com/SpotX-Official/SpotX/releases/download/1.9/Install_New_theme.bat",
+    "type": "bat"
+  },
   "cru": {
     "id": "cru",
     "url": "https://customresolutionutility.net/",
