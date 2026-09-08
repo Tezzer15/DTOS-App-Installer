@@ -75,11 +75,6 @@
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\Autoruns"
   },
-    "spotx": {
-    "id": "spotx",
-    "url": "https://github.com/SpotX-Official/SpotX/releases/download/1.9/Install_New_theme.bat",
-    "type": "bat"
-  },
   "cru": {
     "id": "cru",
     "url": "https://customresolutionutility.net/",
@@ -89,7 +84,7 @@
   },
   "rustdesk": {
     "id": "rustdesk",
-    "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.6/rustdesk-1.4.6-x86_64.exe",
+    "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-x86_64.exe",
     "type": "exe"
   },
   "anydesk": {
@@ -99,8 +94,8 @@
   },
   "hwinfo": {
     "id": "hwinfo",
-    "url": "https://sourceforge.net/projects/hwinfo/files/latest/download",
-    "type": "url",
+    "url": "https://www.sac.sk/download/utildiag/hwi_852x.exe",
+    "type": "setup",
     "installArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
   },
   "zentimings": {
@@ -153,7 +148,7 @@
   },
   "ramtestpro": {
     "id": "ramtestpro",
-    "url": "https://pcstonks.com/s/C7iQng",
+    "url": "https://media.pcstonks.com/ram-test-pro/1.5.0/ram_test_pro_1.5.0.zip",
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\RAM Test pro"
   },
@@ -179,7 +174,7 @@
     "id": "furmark",
     "url": "https://geeks3d.com/furmark/downloads/",
     "type": "url-page",
-    "linkContains": "geeks3d.com/dl",
+    "linkContains": "/dl/show/",
     "extractPath": "%USERPROFILE%\\Downloads\\FurMark"
   },
   "unigine": {
@@ -202,7 +197,7 @@
   },
   "fancontrol": {
     "id": "fancontrol",
-    "url": "https://github.com/Rem0o/FanControl.Releases/releases/download/V268/FanControl_268_net_10_0_Installer.exe",
+    "url": "https://github.com/Rem0o/FanControl.Releases/releases/download/V275/FanControl_275_net_10_0_Installer.exe",
     "type": "setup"
   },
   "msiutilityv3": {
@@ -277,9 +272,19 @@
     "url": "https://download.scdn.co/SpotifySetup.exe",
     "type": "setup"
   },
+  "spotx": {
+    "id": "spotx",
+    "url": "https://github.com/SpotX-Official/SpotX/releases/download/1.9/Install_New_theme.bat",
+    "type": "bat"
+  },
   "applemusic": {
     "id": "applemusic",
     "url": "ms-windows-store://pdp/?productid=9PFHDD62MXS1",
+    "type": "store"
+  },
+  "crunchyroll": {
+    "id": "crunchyroll",
+    "url": "ms-windows-store://pdp/?productid=9WZDNCRFJ15T",
     "type": "store"
   },
   "mpv": {
@@ -294,18 +299,13 @@
     "type": "setup",
     "installArgs": "/S"
   },
-    "crunchyroll": {
-    "id": "crunchyroll",
-    "url": "ms-windows-store://pdp/?productid=9WZDNCRFJ15T",
-    "type": "store"
-  },
   "librewolf": {
     "id": "librewolf",
-    "url": "https://dl.librewolf.net/librewolf/151.0.3-1/librewolf-151.0.3-1-windows-x86_64-setup.exe",
+    "url": "https://dl.librewolf.net/librewolf/155.0.1-1/librewolf-155.0.1-1-windows-x86_64-setup.exe",
     "type": "setup",
     "installArgs": "/S"
   },
-    "throttlestop": {
+  "throttlestop": {
     "id": "throttlestop",
     "url": "https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/ThrottleStop_9.7.zip",
     "type": "zip",
