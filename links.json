@@ -94,8 +94,9 @@
   },
   "hwinfo": {
     "id": "hwinfo",
-    "url": "https://www.sac.sk/download/utildiag/hwi_852x.exe",
-    "type": "setup",
+    "url": "https://www.hwinfo.com/download/",
+    "type": "url-page",
+    "linkContains": "hwi64_",
     "installArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
   },
   "zentimings": {
