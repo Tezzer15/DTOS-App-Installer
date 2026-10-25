@@ -94,7 +94,6 @@
   },
   "hwinfo": {
     "id": "hwinfo",
-    "type": "url",
     "url": "https://www.sac.sk/download/utildiag/hwi_854x.exe",
     "type": "setup",
     "installArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
