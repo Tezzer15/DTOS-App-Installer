@@ -27,8 +27,8 @@
   },
   "epic": {
     "id": "epic",
-    "url": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi",
-    "type": "msi"
+    "url": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.exe",
+    "type": "setup"
   },
   "steam": {
     "id": "steam",
