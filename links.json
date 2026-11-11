@@ -94,7 +94,7 @@
   },
   "hwinfo": {
     "id": "hwinfo",
-    "url": "https://www.sac.sk/download/utildiag/hwi_854x.exe",
+    "url": "https://www.sac.sk/download/utildiag/hwi_860x.exe",
     "type": "setup",
     "installArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
   },
@@ -247,7 +247,7 @@
   },
   "obs": {
     "id": "obs",
-    "url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
+    "url": "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-33.0.1-Windows-x64-Installer.exe",
     "type": "setup"
   },
   "radeontuner": {
