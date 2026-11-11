@@ -84,7 +84,7 @@
   },
   "rustdesk": {
     "id": "rustdesk",
-    "url": "https://github.com/rustdesk/rustdesk/releases/download/1.4.9/rustdesk-1.4.9-x86_64.exe",
+    "url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-x86_64.exe",
     "type": "exe"
   },
   "anydesk": {
@@ -100,7 +100,7 @@
   },
   "zentimings": {
     "id": "zentimings",
-    "url": "https://github.com/irusanov/ZenTimings/releases/download/v1.39/ZenTimings_v1.39.zip",
+    "url": "https://github.com/irusanov/ZenTimings/releases/download/v142.713/ZenTimings_v142.713.zip",
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\Zentimings"
   },
@@ -136,7 +136,7 @@
   },
   "cpuz": {
     "id": "cpuz",
-    "url": "https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/cpu-z_2.20.1-en.exe",
+    "url": "https://download.cpuid.com/cpu-z/cpu-z_3.02-en.exe",
     "type": "setup",
     "installArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
   },
@@ -166,7 +166,7 @@
   },
   "capframex": {
     "id": "capframex",
-    "url": "https://github.com/CXWorld/CapFrameX/releases/download/v1.8.5/release_1.8.5_installer.zip",
+    "url": "https://github.com/CXWorld/CapFrameX/releases/download/v1.9.1/release_1.9.1_installer.zip",
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\capframex"
   },
@@ -197,7 +197,7 @@
   },
   "fancontrol": {
     "id": "fancontrol",
-    "url": "https://github.com/Rem0o/FanControl.Releases/releases/download/V275/FanControl_275_net_10_0_Installer.exe",
+    "url": "https://github.com/Rem0o/FanControl.Releases/releases/download/V285/FanControl_285_net_10_0_Installer.exe",
     "type": "setup"
   },
   "msiutilityv3": {
@@ -218,7 +218,7 @@
   },
   "nvidiaprofileinspector": {
     "id": "nvidiaprofileinspector",
-    "url": "https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/v3.0.1.13/nvidiaProfileInspector.zip",
+    "url": "https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/v3.0.2.3/nvidiaProfileInspector.zip",
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\nvidiaProfileInspector"
   },
@@ -258,7 +258,7 @@
   },
   "radeonslimmer": {
     "id": "radeonslimmer",
-    "url": "https://github.com/GSDragoon/RadeonSoftwareSlimmer/releases/download/1.12.0/RadeonSoftwareSlimmer_1.12.0_net80.zip",
+    "url": "https://github.com/GSDragoon/RadeonSoftwareSlimmer/releases/download/1.13.0/RadeonSoftwareSlimmer_1.13.0_net100.zip",
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\RadeonSlimmer"
   },
@@ -289,7 +289,7 @@
   },
   "mpv": {
     "id": "mpv",
-    "url": "https://gitgud.io/api/v4/projects/45219/packages/generic/mpv-manager/v1.2.0/mpv-manager-v1.2.0-win-x86_64.zip",
+    "url": "https://ggdl.io/mike/mpv-manager/releases/v1.3.1/mpv-manager-v1.3.1-win-x86_64.zip",
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\mpv"
   },
@@ -301,13 +301,13 @@
   },
   "librewolf": {
     "id": "librewolf",
-    "url": "https://dl.librewolf.net/librewolf/155.0.1-1/librewolf-155.0.1-1-windows-x86_64-setup.exe",
+    "url": "https://dl.librewolf.net/librewolf/160.0-1/librewolf-160.0-1-windows-x86_64-setup.exe",
     "type": "setup",
     "installArgs": "/S"
   },
   "throttlestop": {
     "id": "throttlestop",
-    "url": "https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/ThrottleStop_9.7.zip",
+    "url": "https://github.com/Tezzer15/DTOS-App-Installer/releases/download/app/ThrottleStop_9.7.3.zip",
     "type": "zip",
     "extractPath": "%USERPROFILE%\\Downloads\\throttlestop"
   }
